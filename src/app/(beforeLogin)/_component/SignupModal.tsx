@@ -1,6 +1,6 @@
 'use client';
 
-import style from './signup.module.css';
+import style from '@/app/(beforeLogin)/_component/signup.module.css';
 import { useRouter } from 'next/navigation';
 import { ChangeEventHandler, FormEventHandler, useState } from 'react';
 

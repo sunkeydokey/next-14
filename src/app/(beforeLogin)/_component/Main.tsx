@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 import styles from '@/app/(beforeLogin)/_component/main.module.css';
 
-import zLogo from '../../../../public/zlogo.png';
+import zLogo from '/public/zlogo.png';
 
 export const Main = () => {
   return (
